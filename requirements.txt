@@ -1,0 +1,5 @@
+requests
+tkinter
+beautifulsoup4
+SQLAlchemy
+tabulate
