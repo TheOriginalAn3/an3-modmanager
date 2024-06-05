@@ -3,3 +3,4 @@ tkinter
 beautifulsoup4
 SQLAlchemy
 tabulate
+setuptools
